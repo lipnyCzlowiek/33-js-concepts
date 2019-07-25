@@ -38,6 +38,14 @@ Lista aktualnie dostępnych tłumaczeń znajduje się poniżej:
 - [Russian](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
 - [Tiếng Việt](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
 - [Polish](https://github.com/lip3k/33-js-concepts) — Dawid Lipiński
+- [Persian](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
+- [Indonesian](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
+- [French](https://github.com/robinmetral/33-concepts-js) — Robin Métral
+- [Hindi](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan
+- [Greek](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
+- [Japanese](https://github.com/oimo23/33-js-concepts) — oimo23
+- [German](https://github.com/burhannn/33-js-concepts) — burhannn
+- [Ukrainian](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — Andrew Savetchuk
 
 ---
 
